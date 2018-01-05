@@ -1,2 +1,1 @@
-# Udemy
-Project sets for Udemy courses
+# Udemy Projects
